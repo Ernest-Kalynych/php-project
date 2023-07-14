@@ -5,3 +5,4 @@
  Used Sentiment library: https://github.com/davmixcool/php-sentiment-analyzer <br />
  PHP version: 8.2.8 <br />
  Composer version: 2.5.8 <br />
+ Time spent:  2.25 hours developing / 0.5 hours to check result and other things, as pushing code to git, creating README, etc..
