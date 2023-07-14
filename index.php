@@ -1,5 +1,7 @@
 <?php
 require "vendor/autoload.php";
+//ignore deprecated warning, because we dont se emojis in description
+error_reporting(E_ALL ^ E_DEPRECATED);
 
 $CSVvar = fopen("dataset-gymbeam-product-descriptions-eng.csv", "r");
 use Sentiment\Analyzer;
